@@ -1,4 +1,3 @@
-# FarmLokal-Backend
 
 # FarmLokal Backend Assignment
 
