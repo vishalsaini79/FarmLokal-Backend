@@ -56,6 +56,12 @@ We work closely with local farmers, doodhwalas, FPOs, and small brands and enabl
 - Error handling and logging centralized  
 
 ---
+## Render Live Link
+
+The backend is deployed and running live on Render.  
+You can access it here: [FarmLokal Backend Live](https://farmlokal-backend-1.onrender.com)
+
+---
 
 ## Setup Instructions
 
@@ -63,3 +69,6 @@ We work closely with local farmers, doodhwalas, FPOs, and small brands and enabl
 ```bash
 git clone https://github.com/vishalsaini79/FarmLokal-Backend.git
 cd FarmLokal-Backend
+
+
+
